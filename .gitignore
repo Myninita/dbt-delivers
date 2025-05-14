@@ -1,0 +1,2 @@
+*.csv        # ignore tous les fichiers .csv
+data/        # ignore tout le dossier data (macOS/Linux)
